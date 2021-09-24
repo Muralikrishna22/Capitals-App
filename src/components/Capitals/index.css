@@ -1,0 +1,51 @@
+.app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  width: 40%;
+  border-radius: 30px;
+  padding: 30px;
+  background-color: #f8fafc;
+}
+
+.question {
+  color: #323f4b;
+  font-size: 25px;
+  font-family: Roboto;
+  font-weight: 400;
+}
+
+.heading {
+  color: #1e293b;
+  font-size: 40px;
+  font-family: Roboto;
+  font-weight: 900;
+}
+
+.options {
+  color: #000000;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 400;
+  height: 30px;
+}
+
+.country-name {
+  color: #1e293b;
+  font-size: 40px;
+  font-family: Roboto;
+  font-weight: 900;
+}
+
+/* 
+Hex: #cbd2d9
+Hex: #323f4b
+Hex: #000000
+Hex: #1e293b */
